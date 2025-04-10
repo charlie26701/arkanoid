@@ -23,7 +23,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # 設置工作目錄
-WORKDIR /game
+WORKDIR /workspace
 
 # 設置預設命令
 CMD ["bash"] 

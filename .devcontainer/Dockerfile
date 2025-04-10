@@ -1,4 +1,4 @@
-FROM paiatech/mlgame:10.5.1-slim
+FROM paiatech/mlgame:10.4.6a2-slim
 
 # 安裝基本開發工具
 RUN apt-get update && apt-get install -y \

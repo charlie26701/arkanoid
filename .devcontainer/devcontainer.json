@@ -11,8 +11,7 @@
                 "ms-python.vscode-pylance"
             ],
             "settings": {
-                "python.defaultInterpreterPath": "/usr/local/bin/python",
-                "pylint.enabled": true
+                "python.defaultInterpreterPath": "/usr/local/bin/python"
             }
         }
     },
